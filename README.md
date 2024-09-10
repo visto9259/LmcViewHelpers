@@ -1,2 +1,2 @@
-# lmc-view-helpers
+# LmcViewHelpers
 A collection of View Helpers
